@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(181, 165, 165);
+    margin: 20px;
+}
+
+
+header{
+    background-color: rgb(57, 15, 208);
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+}
+img{
+    height: 200px;
+    width: 250px;
+    border-radius: 500px;
+}
+section{
+    padding: 10px;
+    color:black;
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0,1);
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+th,td{
+    border: 2px solid black;
+    text-align: center;
+    padding: 8px;
+
+}
